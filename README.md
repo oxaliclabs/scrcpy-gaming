@@ -1,7 +1,6 @@
 > [!WARNING]
-> **This GitHub repo (<https://github.com/Genymobile/scrcpy>) is the only official
-source for the project. Do not download releases from random websites, even if
-their name contains `scrcpy`.**
+> **This GitHub repo (<https://github.com/Genymobile/scrcpy>) is the not official
+source for the project. It is a custom build of `scrcpy`.**
 
 # scrcpy (v5.0)
 
